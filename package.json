@@ -1,0 +1,27 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack boiler plate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShvetaJain/webpack.git"
+  },
+  "author": "shveta jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShvetaJain/webpack/issues"
+  },
+  "homepage": "https://github.com/ShvetaJain/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.0.2",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
